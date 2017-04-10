@@ -1,0 +1,6 @@
+magisk-gemini-safetynet-props:
+  artifacts:
+    name: "magisk-gemini-safetynet-props"
+    paths:
+      - ./*
+    
