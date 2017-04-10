@@ -1,4 +1,6 @@
 magisk-gemini-safetynet-props:
+  script:
+    - echo "Packaging magisk-gemini-safetynet-props {$CI_COMMIT_REF_SLUGZ}@${CI_COMMIT_SHA}"
   artifacts:
     name: "magisk-gemini-safetynet-props"
     paths:
