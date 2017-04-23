@@ -25,6 +25,3 @@ MODDIR=${0%/*}
 /data/magisk/resetprop ro.secure 1
 /data/magisk/resetprop ro.build.type user
 /data/magisk/resetprop ro.build.tags release-keys
-
-# https://github.com/topjohnwu/MagiskManager/issues/112#issuecomment-280993699
-sh /magisk/.core/magiskhide/enable
