@@ -50,7 +50,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Safetynet Props           "
+  ui_print "   Gemini Safetynet Props      "
   ui_print "*******************************"
 }
 
