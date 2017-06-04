@@ -16,10 +16,10 @@ fi
 #$resetprop ro.boot.veritymode enforcing
 
 # https://forum.xda-developers.com/showpost.php?p=70831797&postcount=3665
-$resetprop ro.build.description "gemini-user 6.0.1 MXB48T V8.1.2.0.MAAMIDI release-keys"
-$resetprop ro.build.fingerprint "Xiaomi/gemini/gemini:6.0.1/MXB48T/V8.1.2.0.MAAMIDI:user/release-keys"
+$resetprop ro.build.description "le_x2-user 6.0.1 FGXOSOP5801910121S eng.letv.20161012.010150.wechatpay release-keys"
+$resetprop ro.build.fingerprint "Letv/LeMax2_WW/le_x2:6.0.1/FGXOSOP5801910121S/letv10120105:user/release-keys"
 
-$resetprop ro.bootimage.build.fingerprint "Xiaomi/gemini/gemini:6.0.1/MXB48T/V8.1.2.0.MAAMIDI:user/release-keys"
+$resetprop ro.bootimage.build.fingerprint "Letv/LeMax2_WW/le_x2:6.0.1/FGXOSOP5801910121S/letv10120105:user/release-keys"
 
 #$resetprop selinux.reload_policy 1
 
