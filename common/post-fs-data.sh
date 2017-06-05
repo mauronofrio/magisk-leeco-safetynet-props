@@ -16,7 +16,7 @@ fi
 #$resetprop ro.boot.veritymode enforcing
 
 # https://forum.xda-developers.com/showpost.php?p=70831797&postcount=3665
-$resetprop ro.build.description "le_zl1-user 6.0.1 WEXNAOP5802012101S letv12100148 release-keys"
+$resetprop ro.build.description "le_zl1-user 6.0.1 WEXNAOP5802012101S eng.letv.20161210.014420.wechatpay release-keys"
 $resetprop ro.build.fingerprint "LeEco/ZL1_NA/le_zl1:6.0.1/WEXNAOP5802012101S/letv12100148:user/release-keys"
 
 $resetprop ro.bootimage.build.fingerprint "LeEco/ZL1_NA/le_zl1:6.0.1/WEXNAOP5802012101S/letv12100148:user/release-keys"
