@@ -16,10 +16,10 @@ fi
 #$resetprop ro.boot.veritymode enforcing
 
 # https://forum.xda-developers.com/showpost.php?p=70831797&postcount=3665
-$resetprop ro.build.description "le_x2-user 6.0.1 FGXOSOP5801910121S eng.letv.20161012.010150.wechatpay release-keys"
-$resetprop ro.build.fingerprint "Letv/LeMax2_WW/le_x2:6.0.1/FGXOSOP5801910121S/letv10120105:user/release-keys"
+$resetprop ro.build.description "s2-user 6.0.1 IIXOSOP5801910121S 44 release-keys"
+$resetprop ro.build.fingerprint "Letv/Le2_WW/le_s2_ww:6.0.1/IIXOSOP5801910121S/44:user/release-keys"
 
-$resetprop ro.bootimage.build.fingerprint "Letv/LeMax2_WW/le_x2:6.0.1/FGXOSOP5801910121S/letv10120105:user/release-keys"
+$resetprop ro.bootimage.build.fingerprint "Letv/Le2_WW/le_s2_ww:6.0.1/IIXOSOP5801910121S/44:user/release-keys"
 
 #$resetprop selinux.reload_policy 1
 
