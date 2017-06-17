@@ -1,4 +1,4 @@
-## Safetynet Props Leeco Le 2
+## Safetynet Props Leeco Le 2 X52X
 Magisk module to assist in enabling safetynet on various rom's for Mi5 (gemini).  
 Based primarily on ro props from https://forum.xda-developers.com/showpost.php?p=71154562&postcount=4 
 
