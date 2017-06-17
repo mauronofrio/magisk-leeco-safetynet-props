@@ -1,4 +1,4 @@
-## Safetynet Props Leeco Le Max 2
+## Safetynet Props Leeco Le 2
 Magisk module to assist in enabling safetynet on various rom's for Mi5 (gemini).  
 Based primarily on ro props from https://forum.xda-developers.com/showpost.php?p=71154562&postcount=4 
 
@@ -8,3 +8,5 @@ This will also forfully enable magisk hide at boot to workaround the issue: http
 If Magisk Hide is toggled in Magisk Manager afterwards you may need to reboot to renable Magisk Hide (and safetynet)
 
 Original project: https://gitlab.com/alelec/magisk-gemini-safetynet-props
+
+Thanks to @DarknessKiller
